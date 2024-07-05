@@ -1,31 +1,22 @@
 # 📚 Object-Oriented Programming (OOP) Notes
 
-Welcome to the Object-Oriented Programming (OOP) Notes repository. This collection covers essential concepts of OOP, each explained in a separate markdown file. Whether you're a beginner or looking to refresh your knowledge, these notes provide a concise and clear understanding of OOP principles.
+Welcome to the Object-Oriented Programming (OOP) Notes repository. This collection covers essential concepts of OOP, each explained in a separate markdown file.
 
 ## 📖 Table of Contents
 
-1. [🔍 Abstraction](#abstraction)
-2. [🏗️ Constructor](#constructor)
-3. [📋 Copy Constructor](#copy-constructor)
-4. [🔒 Encapsulation](#encapsulation)
-5. [🤝 Friend Function](#friend-function)
-6. [🧬 Inheritance](#inheritance)
-7. [🔀 Polymorphism](#polymorphism)
-8. [🧩 Virtual Functions and Abstract Classes](#virtual-functions-and-abstract-classes)
+1. [🔍 Abstraction](abstraction.md)
+2. [🏗️ Constructor](constructor.md)
+3. [📋 Copy Constructor](copy_constructor.md)
+4. [🔒 Encapsulation](encapsulation.md)
+5. [🤝 Friend Function](friendfunction.md)
+6. [🧬 Inheritance](inheritance.md)
+7. [🔀 Polymorphism](polymorphism.md)
+8. [🧩 Virtual Functions and Abstract Classes](VirtualFunctionAbstractclasses.md)
 
-## 🔍 Abstraction
+---
 
-**File:** [abstraction.md](abstraction.md)
+Created by Abhay Nautiyal
 
-Abstraction is the concept of hiding the complex implementation details and showing only the essential features of the object. This file provides a detailed explanation of abstraction with examples.
-
-## 🏗️ Constructor
-
-**File:** [constructor.md](constructor.md)
-
-A constructor is a special type of member function that initializes objects of a class. This file covers the different types of constructors and their usage in OOP.
-
-## 📋 Copy Constructor
 
 **File:** [copy_constructor.md](copy_constructor.md)
 
